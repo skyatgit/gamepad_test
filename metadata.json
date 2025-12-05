@@ -1,0 +1,5 @@
+{
+  "name": "Xbox 手柄测试工具",
+  "description": "一个用于测试 Xbox 手柄按键、摇杆和震动的可视化工具。",
+  "requestFramePermissions": []
+}
